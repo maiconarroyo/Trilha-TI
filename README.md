@@ -3,6 +3,7 @@ Compartilhando arquivos e portfólios com o objetivo de ajudar aqueles que quere
 Pode parecer difícil mas juntos somos mais fortes!!
 abaixo tem nossa trilha completa e sites para se desenvolver de forma gratuita
 Trilha Programação
+Fique a vontade em nos dar sugestões e feedbacks .
 
     • Objetivo
 Ajudar todos que querem aprender programação de forma gratuita sem deixar de ter qualidade de ensino e se tornar assim um desenvolvedor.
